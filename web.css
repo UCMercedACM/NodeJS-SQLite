@@ -1,0 +1,24 @@
+.link1{
+    font-size: 28px;
+    font-weight: bold;
+    color: greenyellow;
+    border: black solid 2px;
+}
+
+.link1:hover{
+    color: green;
+    cursor: pointer;
+}
+
+/* TABLE ANIMAL */
+
+  td{
+      padding: 30px;
+      border: solid black 3px;
+  }
+  th{
+    border: solid black 3px;
+  }
+  table{
+      border: solid black 3px;
+  }
